@@ -1,4 +1,3 @@
-#
 # Define a fucntion makeCachematrix that takes a matrx x as the input parameter. 
 # The function caches the matrix x to another variable y
 # The function returns a list that sets and gets the matrix and the matrix inverse
